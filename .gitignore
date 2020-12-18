@@ -9,6 +9,6 @@
 
 # maven
 /*/target/
-
+target
 # app
 /logs
